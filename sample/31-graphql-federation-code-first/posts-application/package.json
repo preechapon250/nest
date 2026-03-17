@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@apollo/federation": "0.38.1",
-    "@apollo/gateway": "2.13.1",
+    "@apollo/gateway": "2.13.2",
     "@apollo/server": "5.4.0",
     "@apollo/subgraph": "2.13.1",
     "@nestjs/apollo": "13.2.4",
